@@ -12,6 +12,8 @@ Directory strcture and content:
 
 Each test folder may contain additional instructions.
 
+Run `initpath` (from MATLAB's command prompt) in the directory of the packge to set up MATLAB's path.
+
 Please cite the following paper when using the code
 
 R. katz and Y. Shkolnisky. Sampling and approximation of bandlimited volumetric data. Applied and Computational Harmonic Analysis, 47(1):235-247, July 2019
